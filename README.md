@@ -49,29 +49,69 @@ Fun fact    :
   Liverpool supporter ❤️
   You'll Never Walk Alone!
 ```
+<h2> Research Interests</h2>
 
+- Data Science
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Multimodal AI
+- Agentic AI Systems
+- AI for Real-World Applications
 <br/>
 <h2> Tech Stack & Tools</h2>
-<h4>Languages</h4>
+
+<h4>Programming & Databases</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
-<h4>ML & Data Science</h4>
+
+<h4>Data Science & Machine Learning</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
 </p>
-<h4>Tools & Platforms</h4>
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-EA4335?style=for-the-badge"/>
+</p>
+
+<h4>LLMs & Agentic AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
+</p>
+
+<h4>Multimodal AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/OCR-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASR-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PhoWhisper-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence_BERT-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BM25-546E7A?style=for-the-badge"/>
+</p>
+
+<h4>Data Visualization & Deployment</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge"/>
+</p>
+
+<h4>Research & Documentation</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/Academic_Writing-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-1565C0?style=for-the-badge"/>
 </p>
 
 <br/>
