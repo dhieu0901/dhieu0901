@@ -18,5 +18,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/jJKMIAScMCemDNVyj4/giphy.gif" width="300"/>
+  <img src="https://media.tenor.com/qJ5evVs-_b8AAAAd/coding.gif" width="300"/>
 </p>
