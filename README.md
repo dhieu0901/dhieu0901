@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello+there!+I%27m+Hieu+🐈&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello+there!+I%27m+Hieu+🐱&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h2 align="center">Data Science Student @ National Economics University</h2>
 <p align="center"> Data Science & AI Enthusiast | Hanoi, Vietnam </p>
@@ -21,18 +21,33 @@
   <img src="https://github.com/user-attachments/assets/5a91e704-f0ae-4534-95f1-9887946f2c45" width="300"/>
 </p>
 
-<br/>
 <h2> About Me</h2>
 
 ```yaml
 Name        : Nguyen Duong Hieu
 University  : National Economics University (NEU)
 Major       : Data Science in Economics and Business
-Location    : Hanoi, Vietnam
-Interests   : Machine Learning, LLMs, and Multimodal AI
-Currently   : Building ML pipelines and integrating LLMs into workflows
-Goal        : Develop and scale Agentic AI solutions
-Fun fact    : I love Liverpool YNWA!!!
+
+Interests   :
+  - Data Science
+  - Artificial Intelligence
+  - Large Language Models (LLMs)
+  - Multimodal AI
+  - Agentic AI Systems
+
+Currently   :
+  - Exploring AI and Data Science research
+  - Building ML and LLM-powered applications
+  - Studying multimodal and agentic workflows
+
+Goal        :
+  Pursue an academic career in Data Science and AI,
+  continuously grow through research, and contribute
+  to advancing knowledge through impactful scientific work.
+
+Fun fact    :
+  Liverpool supporter ❤️
+  You'll Never Walk Alone!
 ```
 
 <br/>
