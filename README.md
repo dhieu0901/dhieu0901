@@ -23,3 +23,18 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a91e704-f0ae-4534-95f1-9887946f2c45" width="300" alt="Relaxing Good Night GIF by Sappy Seals"/>
 </p>
+
+<br/>
+
+<h2> About Me</h2>
+
+```yaml
+Name        : Nguyen Duong Hieu
+University  : National Economics University (NEU)
+Major       : Data Science in Economics and Business
+Location    : Hanoi, Vietnam
+Interests   : Machine Learning, LLMs, and Multimodal AI
+Currently   : Building ML pipelines and integrating LLMs into workflows
+Goal        : Develop and scale Agentic AI solutions
+Fun fact    : I love Liverpool YNWA!!!
+```
