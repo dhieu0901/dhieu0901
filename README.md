@@ -121,9 +121,7 @@ Fun fact    :
 <p align="center">
   <img src="https://github.com/dhieu0901/dhieu0901/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhieu0901&color=blue&style=flat-square"/>
-</p>
+
 <br/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
