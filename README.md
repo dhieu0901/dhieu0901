@@ -29,9 +29,9 @@ University  : National Economics University (NEU)
 Major       : Data Science in Economics and Business
 
 Currently   :
-  - Building ML and LLM-powered applications
-  - Research Assistant @ USC x FAU Project
-  - Exploring multimodal and agentic workflows
+  - Working on real-world AI applications
+  - Exploring LLMs, Multimodal AI, and Agentic Systems
+  - Applying AI techniques to practical business problems
 
 Goal        :
   Pursue an academic career in Data Science and AI,
