@@ -65,3 +65,19 @@ Fun fact    : I love Liverpool YNWA!!!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45"/>
 </p>
+<br/>
+
+<h2> GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhieu0901&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieu0901&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhieu0901&theme=tokyonight&hide_border=true"/>
+</p>
+<br/>
+<h2> My Contributions</h2>
+<p align="center">
+  <img src="https://github.com/dhieu0901/dhieu0901/blob/output/github-contribution-grid-snake.svg"/>
+</p>
