@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!+I%27m+Hieu+🐈&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h2 align="center">Data Science Student @ National Economics University 👨‍💻</h2>
+
+<h2 align="center">Data Science Student @ National Economics University</h2>
 <p align="center"> Data Science & AI Enthusiast | Hanoi, Vietnam </p>
+
 <p align="center">  
   <a href="https://linkedin.com/in/kidwithbigdreams">    
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
@@ -17,6 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white"/>  
   </a>
 </p>
+
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_b8AAAAd/coding.gif" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5a91e704-f0ae-4534-95f1-9887946f2c45" width="300" alt="Relaxing Good Night GIF by Sappy Seals"/>
 </p>
