@@ -22,7 +22,7 @@
 </p>
 
 <br/>
-<h2>👨‍💻 About Me</h2>
+<h2> About Me</h2>
 
 ```yaml
 Name        : Nguyen Duong Hieu
@@ -36,7 +36,7 @@ Fun fact    : I love Liverpool YNWA!!!
 ```
 
 <br/>
-<h2>🚀 Tech Stack & Tools</h2>
+<h2> Tech Stack & Tools</h2>
 <h4>Languages</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
@@ -60,7 +60,7 @@ Fun fact    : I love Liverpool YNWA!!!
 </p>
 
 <br/>
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhieu0901&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhieu0901&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
@@ -70,7 +70,7 @@ Fun fact    : I love Liverpool YNWA!!!
 </p>
 
 <br/>
-<h2>🐍 My Contributions</h2>
+<h2> My Contributions</h2>
 <p align="center">
   <img src="https://github.com/dhieu0901/dhieu0901/blob/output/github-contribution-grid-snake.svg"/>
 </p>
