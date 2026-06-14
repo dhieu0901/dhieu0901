@@ -114,17 +114,6 @@ Fun fact    :
 </p>
 
 <br/>
-<h2>📄 Publications</h2>
-
-<table>
-  <tr>
-    <td>
-      <b>Promoting circular consumption behavior: Factors influencing Vietnamese Generation Z's intention to extend the lifespan of personal electronic devices</b><br/>
-      Le Thu Thao, <b>Nguyen Duong Hieu</b>, Pham Phuong Trinh, Nguyen Minh Tung<br/>
-      <i>22nd International Conference on Socio-economic and Environmental Issues in Development (ICSEED 2026)</i>
-    </td>
-  </tr>
-</table>
 
 <br/>
 <h2>GitHub Stats</h2>
