@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello+there!+I%27m+Hieu+😽&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h2 align="center">Data Science Student @ National Economics University</h2>
-<p align="center"> Data Science & AI Enthusiast | Hanoi, Vietnam </p>
+<p align="center"> Data Science & AI Researcher | Hanoi, Vietnam </p>
 <p align="center">  
   <a href="https://linkedin.com/in/kidwithbigdreams">    
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
@@ -29,10 +29,8 @@ University  : National Economics University (NEU)
 Major       : Data Science in Economics and Business
 
 Currently   :
-  - Working on real-world AI applications
-  - Exploring LLMs, Multimodal AI, and Agentic Systems
-  - Applying AI techniques to practical business problems
-
+  - Student Researcher @ DAAI Lab, NEU
+  - Exploring Causal Inference, OOD Generalization & Trustworthy AI
 Goal        :
   Pursue an academic career in Data Science and AI,
   contributing to impactful scientific research.
@@ -43,12 +41,13 @@ Fun fact    :
 
 <h2>Research Interests</h2>
 
-- Data Science
-- Artificial Intelligence
+- Causal Inference & Causal Machine Learning (Causal Discovery, Invariant Prediction)
+- Causal Representation Learning & Out-of-Distribution (OOD) Generalization
+- Trustworthy and Reliable AI Systems
 - Large Language Models (LLMs)
 - Multimodal AI
-- Agentic AI Systems
-- AI for Real-World Applications
+- Probabilistic Machine Learning & Bayesian Methods
+- Optimization and Applied Mathematics for Machine Learning
 
 <br/>
 <h2>Tech Stack & Tools</h2>
@@ -72,6 +71,14 @@ Fun fact    :
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=buffer&logoColor=black"/>
   <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge&logo=optuna&logoColor=white"/>
   <img src="https://img.shields.io/badge/SHAP-EA4335?style=for-the-badge&logo=buffer&logoColor=white"/>
+</p>
+
+<h4>Causal AI & Probabilistic ML</h4>
+<p>
+  <img src="https://img.shields.io/badge/Causal_Inference-6A1B9A?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCMs_%26_DAGs-1565C0?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Invariant_Prediction-00897B?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bayesian_Methods-FF6F00?style=for-the-badge&logo=buffer&logoColor=white"/>
 </p>
 
 <h4>LLMs & Agentic AI</h4>
@@ -105,6 +112,19 @@ Fun fact    :
   <img src="https://img.shields.io/badge/Academic_Writing-4CAF50?style=for-the-badge&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Research-1565C0?style=for-the-badge&logo=buffer&logoColor=white"/>
 </p>
+
+<br/>
+<h2>📄 Publications</h2>
+
+<table>
+  <tr>
+    <td>
+      <b>Promoting circular consumption behavior: Factors influencing Vietnamese Generation Z's intention to extend the lifespan of personal electronic devices</b><br/>
+      Le Thu Thao, <b>Nguyen Duong Hieu</b>, Pham Phuong Trinh, Nguyen Minh Tung<br/>
+      <i>22nd International Conference on Socio-economic and Environmental Issues in Development (ICSEED 2026)</i>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <h2>GitHub Stats</h2>
