@@ -5,14 +5,12 @@
   <a href="https://dhieu0901.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
-</p>
-
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_top.png" width="240"/>
+
 <details>
-<summary><b>Open profile</b></summary>
+<summary><img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/center_button.png" width="80"/></summary>
 
 <br>
 
@@ -88,11 +86,9 @@ class DuongHieu:
 
 </details>
 
-</div>
+<img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_bottom.png" width="240"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-</p>
+</div>
 
 <p align="center">
   <i>"Maybe not today, maybe not tomorrow, maybe not next month.<br/>But one day, I will be a champion!"</i>
