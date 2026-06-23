@@ -12,7 +12,7 @@
 <div align="center">
 
 <details>
-<summary><b>📂 Open profile</b></summary>
+<summary><b>Open profile</b></summary>
 
 <br>
 
@@ -21,11 +21,11 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3500&pause=400&color=7C3AED&center=true&vCenter=true&width=600&lines=Inquisitive+and+Curious+by+nature;Data+Science+Student+%40+NEU;Causal+Inference+%26+Trustworthy+AI;Liverpool+-+You'll+Never+Walk+Alone" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3500&pause=400&color=7C3AED&center=true&vCenter=true&width=600&lines=Inquisitive%20and%20Curious%20by%20nature;Data%20Science%20Student%20%40%20NEU;Causal%20Inference%20%26%20Trustworthy%20AI;Liverpool%20-%20You%27ll%20Never%20Walk%20Alone" alt="Typing SVG"/>
 </p>
 
 <details open>
-<summary><b>👋 About me</b></summary>
+<summary><b>About me</b></summary>
 
 <div align="left">
 
@@ -37,7 +37,7 @@ class DuongHieu:
         self.research    = ["Causal Inference", "OOD Generalization", "Trustworthy AI"]
         self.currently   = "Multimodal AI & enterprise automation"
         self.goal        = "PhD / academic career in ML research"
-        self.fun_fact    = "Liverpool supporter ⚽"
+        self.fun_fact    = "Liverpool supporter"
 ```
 
 </div>
@@ -45,7 +45,7 @@ class DuongHieu:
 </details>
 
 <details>
-<summary><b>🔬 Research Interests</b></summary>
+<summary><b>Research Interests</b></summary>
 
 <br>
 
@@ -54,7 +54,7 @@ class DuongHieu:
 </details>
 
 <details>
-<summary><b>🧰 Tech Stack</b></summary>
+<summary><b>Tech Stack</b></summary>
 
 <br>
 
@@ -72,7 +72,7 @@ class DuongHieu:
 </details>
 
 <details>
-<summary><b>📊 GitHub Stats</b></summary>
+<summary><b>GitHub Stats</b></summary>
 
 <br>
 
@@ -90,10 +90,22 @@ class DuongHieu:
 
 </div>
 
+<h3 align="center">Open to Collaboration</h3>
+
+<p align="center">
+  Always glad to connect on <b>Causal Inference</b>, <b>Trustworthy &amp; OOD-robust ML</b>, or <b>Multimodal AI</b> —<br/>
+  be it a research paper, an open-source project, or a PhD opportunity.
+</p>
+
+<p align="center">
+  <a href="mailto:duonghieung0901@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <i>"Maybe not today, maybe not tomorrow, maybe not next month.<br/>But one day, I will be a champion!"</i>
+  <br/>— <b>Nikola "NiKo" Kovač</b>
 </p>
