@@ -90,17 +90,6 @@ class DuongHieu:
 
 </div>
 
-<h3 align="center">Open to Collaboration</h3>
-
-<p align="center">
-  Always glad to connect on <b>Causal Inference</b>, <b>Trustworthy &amp; OOD-robust ML</b>, or <b>Multimodal AI</b> —<br/>
-  be it a research paper, an open-source project, or a PhD opportunity.
-</p>
-
-<p align="center">
-  <a href="mailto:duonghieung0901@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
 </p>
