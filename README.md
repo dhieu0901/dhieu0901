@@ -24,11 +24,17 @@
 `Causal Inference` · `Causal Representation Learning` · `OOD Generalization` · `Trustworthy AI` · `LLMs` · `Multimodal AI` · `Probabilistic ML`
 
 ## Tech Stack
-**Languages & DB:** Python, MySQL, Git &nbsp;•&nbsp;
-**ML / DS:** Pandas, NumPy, scikit-learn, CatBoost, Optuna, SHAP &nbsp;•&nbsp;
-**LLMs:** OpenAI API, Gemini, RAG, Prompt Engineering &nbsp;•&nbsp;
-**Multimodal:** OCR, ASR (PhoWhisper), SBERT, BM25 &nbsp;•&nbsp;
-**Deploy & Docs:** Streamlit, Power BI, ONNX, LaTeX
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
