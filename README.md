@@ -17,8 +17,7 @@
 <div align="center">
   <details>
     <summary>
-      <img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_top.png" width="240"/><br>
-      <img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/center_button.png" width="80"/>
+      <img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_top.png" width="240"/>
     </summary>
 
     <br>
@@ -94,6 +93,7 @@
     </details>
 
   </details>
+
   <img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_bottom.png" width="240"/>
 </div>
 
