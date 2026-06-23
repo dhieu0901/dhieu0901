@@ -7,92 +7,105 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake.svg">
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
-<div align="center">
-
-<details>
-  <summary>
-    <img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_top.png" width="240"/>
-  </summary>
-
-  <br>
-
-  <img height="220" src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/minecraft.png" alt="Duong Hieu"/>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3500&pause=400&color=7C3AED&center=true&vCenter=true&width=600&lines=Inquisitive%20and%20Curious%20by%20nature;Data%20Science%20Student%20%40%20NEU;Causal%20Inference%20%26%20Trustworthy%20AI;Liverpool%20-%20You%27ll%20Never%20Walk%20Alone" alt="Typing SVG"/>
-  </p>
-
-</details>
-
-</div>
-
 ---
 
-<details open>
-<summary><b>About Me</b></summary>
+<p align="center">
+
+<details>
+
+<summary>
+
+<img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_top.png" width="420">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/open_profile_bar.png" width="420">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/orb_bottom.png" width="420">
+
+</summary>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/main/minecraft.png"
+    height="220"
+    alt="Duong Hieu"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3500&pause=400&color=7C3AED&center=true&vCenter=true&width=700&lines=Inquisitive+and+Curious+by+Nature;Data+Science+Student+%40+NEU;Causal+Inference+%26+Trustworthy+AI;Future+ML+Researcher;Liverpool+-+You'll+Never+Walk+Alone"
+  />
+</p>
+
+<h2 align="center">Nguyễn Dương Hiếu</h2>
+
+<p align="center">
+Data Science Student · AI Research Enthusiast · Future PhD Aspirant
+</p>
 
 ```python
 class DuongHieu:
     def __init__(self):
-        self.role        = "Data Science Student & AI Researcher"
-        self.affiliation = "DAAI Lab, NEU — Hanoi, Vietnam"
-        self.research    = [
+        self.role = "Data Science Student"
+        self.affiliation = "DAAI Lab, NEU"
+        self.interests = [
             "Causal Inference",
             "OOD Generalization",
-            "Trustworthy AI"
+            "Trustworthy AI",
+            "Optimization for ML"
         ]
-        self.currently   = "Multimodal AI & Enterprise Automation"
-        self.goal        = "PhD / Academic Career in ML Research"
-        self.fun_fact    = "Liverpool supporter"
-```
+        self.current_focus = "Multimodal AI & Enterprise Automation"
+        self.goal = "PhD in Machine Learning"
+</details> </p>
+Research Interests
 
-</details>
+Causal Inference
+· Causal Representation Learning
+· OOD Generalization
+· Trustworthy AI
+· Probabilistic Machine Learning
+· Bayesian Learning
+· Optimization for Machine Learning
 
-<details>
-<summary><b>Research Interests</b></summary>
-
-<br>
-
-`Causal Inference` · `Causal Representation Learning` · `OOD Generalization` · `Trustworthy AI` · `Probabilistic & Bayesian ML` · `Optimization for ML`
-
-</details>
-
-<details>
-<summary><b>Tech Stack</b></summary>
-
-<br>
-
+Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> </p>
+GitHub Statistics
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge&logo=optuna&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhieu0901&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieu0901&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</p> <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhieu0901&theme=tokyonight&hide_border=true" />
+
 </p>
+<p align="center"> <i>
 
-</details>
+"Maybe not today, maybe not tomorrow, maybe not next month.
+But one day, I will be a champion."
 
-<details>
-<summary><b>GitHub Stats</b></summary>
+</i>
 
-<br>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhieu0901&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieu0901&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<b>— Nikola "NiKo" Kovač</b>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhieu0901&theme=tokyonight&hide_border=true"/>
-</p>
-
-</details>
+</p> ```
