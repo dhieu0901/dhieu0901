@@ -5,6 +5,25 @@
   <a href="https://dhieu0901.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
+```html
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/dhieu0901/dhieu0901/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+```
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 </p>
