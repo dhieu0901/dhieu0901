@@ -15,25 +15,26 @@
 
 ## About Me
 - 🎓 BSc in **Data Science in Economics & Business** @ National Economics University (NEU)
-- 🔬 Student Researcher @ **DAAI Lab**, NEU
-- 🧠 Exploring **Causal Inference · OOD Generalization · Trustworthy AI**
-- 🎯 Goal: an academic career in Data Science & AI research
+- 🔬 Student Researcher @ **DAAI Lab** — multimodal AI & enterprise automation
+- 🧪 Research Assistant on **causal inference** (network position → scholarly success) w/ profs @ **USC & FAU**
+- 🤖 AI Trainee @ **Vingroup** — AI in Action (2026)
+- 🎯 Toward a research career in **Causal Inference · OOD Generalization · Trustworthy AI**
 - ⚽ Liverpool supporter — *You'll Never Walk Alone!*
 
 ## Research Interests
-`Causal Inference` · `Causal Representation Learning` · `OOD Generalization` · `Trustworthy AI` · `LLMs` · `Multimodal AI` · `Probabilistic ML`
+`Causal Inference` · `Causal Representation Learning` · `OOD Generalization` · `Trustworthy AI` · `Probabilistic & Bayesian ML` · `Optimization for ML`
+
 
 ## Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge&logo=optuna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
