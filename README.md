@@ -45,6 +45,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhieu0901&theme=tokyonight&hide_border=true"/>
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhieu0901&style=for-the-badge&color=blueviolet" width="200" />
-</div>
