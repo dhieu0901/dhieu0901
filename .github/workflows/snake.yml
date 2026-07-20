@@ -1,31 +1,37 @@
-name: Generate Snake Animation
+name: generate animation
 
 on:
+  # Chạy tự động mỗi 24 giờ
   schedule:
-    # Chạy tự động mỗi 12 tiếng
-    - cron: "0 */12 * * *" 
-  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công
+    - cron: "0 0 * * *" 
+  
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+  
+  # Chạy khi có push vào nhánh main
   push:
     branches:
-    - main # Hoặc 'master' tùy vào nhánh chính của bạn
+    - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
-      # Lấy dữ liệu contribution từ GitHub của bạn và tạo ra file ảnh
-      - name: Generate github-contribution-grid-snake.svg
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Đẩy file ảnh vừa tạo lên một nhánh riêng biệt tên là 'output'
-      - name: Push to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
