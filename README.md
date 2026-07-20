@@ -34,11 +34,10 @@
 ```python
 class DuongHieu:
     def __init__(self):
-        self.role        = "Data Science Student & AI Researcher"
-        self.affiliation = "DAAI Lab, NEU — Hanoi, Vietnam"
+        self.role        = "Data Science Student & Causal AI Researcher"
+        self.affiliation = "DAAI Lab, NEU - Hanoi, Vietnam"
         self.research    = ["Causal Inference", "OOD Generalization", "Trustworthy AI"]
-        self.currently   = "Multimodal AI & enterprise automation"
-        self.goal        = "PhD / academic career in ML research"
+        self.goal        = "PhD / academic career in Causal AI research"
         self.fun_fact    = "Liverpool supporter"
 ```
 
